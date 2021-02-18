@@ -4,17 +4,10 @@ UCI Data Analytics Bootcamp Summer 2020 Group Project #1 Kirstie, Nichole,
 Proposal:
 We would like to explore any links between social media buzz and sneaker resale data focusing on Yeezy sneakers from mid 2017-2018. We have a sample of Yeezy shoe sales data from a resell website, StockX.com, that has provided 8 variables that we will use to answer our questions regarding correlations between value of sneaker and it’s resell price. We will also use various data from social media platforms to research whether or not social impressions impact the potential resell of our sneaker. We will be using social platforms to observe social media engagement and consumer insight to see if there is any correlation to resales.
 
-The kind of data you’d like to work with/field you’re interested in (e.g., geodata, weather data, etc.) -Consumer behavior  -Consumer purchasing data -Social Media Influencer Culture -Resell Culture -Sneaker Culture -“Hypebeast” Culture -Streetwear Culture  -Social Media data
-
-The kinds of questions you’ll be asking of that data: -Is there a correlation between social media influence and sneaker resell value? -Is there a correlation between resell value and shoe size? -Is there a correlation between resell value and color way? -Is there a correlation between social impressions and resell value or velocity of buy?
-
-Possible source for such data: -Raw data is from StockX.com (https://stockx.com/news/the-2019-data-contest/. Variables in the dataset include: Order Date, Brand, Sneaker Name, Sale Price, Retail, Release Date, Shoe Size, and Buyer Region) -Twitter -Cenus data - income -PyTrends -Social-Searcher.com -SPY and DIA historical stock data (for comparison about investments)
-
-Potential Visualizations : -Geomaps -Liner Regression models -Scatterplots -Box Plots -Bar Graphs
-
-
-
-
+-Is there a correlation between social media influence and sneaker resell value?
+-Is there a correlation between resell value and shoe size?
+-Is there a correlation between resell value and color way?
+-Is there a correlation between social impressions and resell value or velocity of buy?
 
 Description of Data    
 "The data in this sheet consist of a random sample of all U.S. Off-White x Nike and Yeezy 350 sales from between 9/1/2017 and 2/13/2019. 
